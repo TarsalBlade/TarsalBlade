@@ -10,4 +10,4 @@
 ![enrouteBanner](https://github.com/user-attachments/assets/9de719b5-e86e-4f7a-87d7-434b80f38e8c)
 
 <b>Description:</b> Curated AI development using API, empowering solutions through free resources.<br>
-<b>Github Link:</b> https://github.com/TarsalBlade/dianai-beta.git
+<b>Github Link:</b> [https://github.com/TarsalBlade/dianai-beta.git](https://github.com/TarsalBlade/enroute-cebu.git)
