@@ -5,8 +5,9 @@
 <b>Description:</b> Curated AI development using API, empowering solutions through free resources.<br>
 <b>Github Link:</b> https://github.com/TarsalBlade/dianai-beta.git
 
-<h1>Pixel Lottery: Multi-platform</h1>
+<h1>enRoute Cebu: PUJ AI Assistant</h1>
 
+![enrouteBanner](https://github.com/user-attachments/assets/9de719b5-e86e-4f7a-87d7-434b80f38e8c)
 
 <b>Description:</b> Curated AI development using API, empowering solutions through free resources.<br>
 <b>Github Link:</b> https://github.com/TarsalBlade/dianai-beta.git
